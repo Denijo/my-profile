@@ -1,10 +1,10 @@
-# Restaurant App
+# My Profile
 
 This is landingpage for my profile
 
 ## Features
--Download Resume
--Send email
+- Download Resume
+- Send email
 
 ## Installation
 
